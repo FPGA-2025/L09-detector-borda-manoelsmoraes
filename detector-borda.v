@@ -28,7 +28,8 @@ module detector_borda (
                 atual <= entrada;
 		anterior <= atual;
 
-           end
+	end
 
+	// teste
    end
 endmodule
