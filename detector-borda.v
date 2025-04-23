@@ -1,8 +1,8 @@
 module detector_borda (
-    input wire clk,
-    input wire rst,
-    input wire [1:0] entrada,
-    output wire [1:0] detector
+    input clk,
+    input rst,
+    input [1:0] entrada,
+    output [1:0] detector
 );
     
 //insira seu código aqui
